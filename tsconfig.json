@@ -1,5 +1,5 @@
 {
-  "include": ["./src/01-simple-debug.js"],                          
+  "include": ["./src/01-simple-debug.ts"],                          
   "compilerOptions": {
     /* Visit https://aka.ms/tsconfig.json to read more about this file */
 
@@ -9,8 +9,8 @@
     "module": "commonjs",                           /* Specify module code generation: 'none', 'commonjs', 'amd', 'system', 'umd', 'es2015', 'es2020', or 'ESNext'. */
     "lib": ["ES2015", "dom"],                                   /* Specify library files to be included in the compilation. */
     "strict": false,                                 /* Enable all strict type-checking options. */
-    "allowJs": true,                             /* Allow javascript files to be compiled. */
-    "checkJs": true,                             /* Report errors in .js files. */
+    "allowJs": false,                             /* Allow javascript files to be compiled. */
+    "checkJs": false,                             /* Report errors in .js files. */
     "outDir": "./dist",    
     // "jsx": "preserve",                           /* Specify JSX code generation: 'preserve', 'react-native', 'react', 'react-jsx' or 'react-jsxdev'. */
     // "declaration": true,                         /* Generates corresponding '.d.ts' file. */
