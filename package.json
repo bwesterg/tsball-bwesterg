@@ -1,0 +1,23 @@
+{
+  "name": "object-ball",
+  "version": "1.0.0",
+  "description": "## Objectives 1. Practice building nested objects. 2. Practice iterating over nested objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwesterg/tsball-bwesterg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bwesterg/tsball-bwesterg/issues"
+  },
+  "homepage": "https://github.com/bwesterg/tsball-bwesterg#readme",
+  "dependencies": {
+    "typescript": "^4.3.5"
+  }
+}
